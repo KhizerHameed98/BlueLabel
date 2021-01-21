@@ -1,0 +1,31 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+  #button:hover{
+    background-color: rgb(31, 16, 70) !important;
+}
+#backButton:hover{
+  background-color: rgb(31, 16, 70) !important;
+  color: white !important;
+}
+  i {
+    position: absolute;
+    top: 80%;
+    right: 40%;
+  }
+  i:hover {
+    color: #00fcb6;
+    cursor: pointer;
+  }
+  .option:hover{
+    background-color: rgb(196, 191, 191) !important;
+    
+
+  }
